@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: cragfund
+        psr4_prefix: cragfund
+        src_path: app
