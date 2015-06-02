@@ -6253,7 +6253,7 @@ body {
   display: table;
   background: url('/img/jailhouse.jpeg');
   font-family: 'Roboto', sans-serif;
-  background-size: auto 2000px;
+  background-size: auto 1700px;
   background-position: center;
 }
 .page-jailhouse .logo {
@@ -6270,7 +6270,7 @@ body {
 .page-jailhouse .special {
   font-family: 'Lato', sans-serif;
   font-size: 12px;
-  color: #999;
+  color: #666;
   text-align: center;
 }
 .page-jailhouse .paypal {
