@@ -7,14 +7,22 @@
                 <!--<div class="register">
                     Don't have an account? <a href="/auth/register">Sign up now</a>
                 </div>-->
-                <div class="title"><span class="logo">Jailhouse Rock</span></div>
+                <div class="title">
+                    <span class="logo">Jailhouse Rock</span>
+                </div>
+                <div class="sponsor">
+                    <span class="plus">+</span>
+                    <span class="logo"></span>
+                </div>
                 <div class="quote">
                     <span>
-                        Jailhouse is an almost entirely fixed gear crag, meaning every bolt has a fixed draw. Your donations will be used to buy bolts, hangers, steel carabiners, static ropes, and other gear to replace worn and broken equipment, keeping the crag accessible to all.
+                        Jailhouse is an almost entirely fixed gear crag, meaning every bolt has a fixed draw.
+                        Your donations will be used to buy bolts, hangers, steel carabiners, static ropes, and other gear to replace worn and broken equipment, keeping the crag accessible to all.
+                        <b>Special thanks to Planet Granite, who will be matching up to $1000 for this fund!</b>
                     </span>
                 </div>
                 <div class="special">
-                    Special thanks to <a href="http://www.christian-adam.com" target="_blank">christian-adam.com</a> Instagram: <a href="http://instagram.com/christian_adam_" target="_blank">christian_adam_</a>
+                    Photo credits go to: <a href="http://www.christian-adam.com" target="_blank">christian-adam.com</a> Instagram: <a href="http://instagram.com/christian_adam_" target="_blank">christian_adam_</a>
                 </div>
                 <div class="paypal">
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

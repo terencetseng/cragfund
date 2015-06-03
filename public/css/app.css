@@ -6238,6 +6238,10 @@ body {
 .logo {
   font-family: 'Satisfy', cursive;
 }
+.title {
+  font-size: 96px;
+  margin-bottom: 20px;
+}
 .page-welcome {
   width: 100%;
   height: 100%;
@@ -6256,10 +6260,33 @@ body {
   background-size: auto 1700px;
   background-position: center;
 }
+.page-jailhouse .title {
+  margin-bottom: 0px;
+}
 .page-jailhouse .logo {
   color: #eee;
 }
+.page-jailhouse .sponsor {
+  width: 100%;
+  text-align: center;
+}
+.page-jailhouse .sponsor .plus {
+  display: block;
+  font-family: 'Satisfy', cursive;
+  font-size: 50px;
+  line-height: 10px;
+  color: #eee;
+}
+.page-jailhouse .sponsor .logo {
+  display: inline-block;
+  background: url('/img/pglogowhite.png');
+  background-size: 250px auto;
+  width: 250px;
+  height: 127px;
+  opacity: .9;
+}
 .page-jailhouse .quote {
+  margin-top: 20px;
   color: #eee;
   text-align: center;
 }
@@ -6284,10 +6311,6 @@ body {
 .content {
   text-align: center;
   display: inline-block;
-}
-.title {
-  font-size: 96px;
-  margin-bottom: 20px;
 }
 .quote {
   font-size: 24px;
